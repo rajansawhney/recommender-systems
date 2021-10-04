@@ -1,0 +1,35 @@
+# OS-Generated
+#------------------------
+*~
+.DS_Store
+
+
+# Python
+#-----------------------
+.pyc
+__pycache__
+
+
+# Jupyter
+#-----------------------
+.ipynb_checkpoints
+
+
+# Directories
+#------------------------
+model/
+output/
+db.json
+model_objects/
+util/*
+!util/README.md
+
+
+# File types
+#------------------------
+*.csv
+*.dot
+*.html
+*.png
+*.jsonl
+
